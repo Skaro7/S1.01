@@ -1,2 +1,2 @@
-public class percussionInstruments {
+public class percussionInstruments{
 }
